@@ -145,12 +145,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) 
 If you use this code or dataset, please cite the associated paper:
 
 ```
-@article{your2025paper,
-  title   = {},
-  author  = {},
-  journal = {},
+@article{small data diagnosis,
+  title   = {Quantitative Assessment of Data Volume Requirements for Reliable Machine Learning Analysis},
+  author  = {XUKUAN XU,JINGHOU BI,MICHAEL MOECKEL,HAJO WIEMER,STEFFEN IHLENFELDT},
+  journal = {Quantitative Assessment of Data Volume Requirements for Reliable Machine Learning Analysis},
   year    = {2025},
-  ...     = {...}
 }
 ```
 
